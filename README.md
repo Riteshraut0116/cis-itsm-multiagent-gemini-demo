@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CIS ITSM Multi-Agent Demo (Gemini 2.5 Flash + MCP + UI/CLI)
 
 This demo shows a CIS-friendly multi-agent workflow:
@@ -25,3 +26,6 @@ python run_cli.py --ticket samples/ticket_vpn_809.json --runner mcp
 
 ## Run UI
 python run_ui.py
+=======
+# cis-itsm-multiagent-gemini-demo
+>>>>>>> 31dc6f9444bee62c772361451cc9be15b8130af9
