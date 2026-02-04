@@ -23,7 +23,7 @@ Powered by **Google Gemini 2.5 Flash**, with two execution modes:
 
 ## 📂 File Structure
 
-cis-itsm-multiagent-gemini-demo/
+cis-itsm-multiagent-files/
 ├── app/                                   # Application source root
 │   └── src/                               # Python package root (PYTHONPATH target)
 │       └── itsm_agents/                   # Core multi-agent package
