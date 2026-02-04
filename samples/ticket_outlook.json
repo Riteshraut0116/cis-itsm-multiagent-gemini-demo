@@ -1,0 +1,9 @@
+{
+    "ticket_id": "INC20002",
+    "short_description": "Outlook not opening",
+    "description": "Outlook crashes on startup. Tried repair and restart, still fails.",
+    "caller": "Demo User",
+    "impact": "Single User",
+    "urgency": "Medium"
+  }
+  

@@ -1,0 +1,8 @@
+{
+    "ticket_id": "INC20003",
+    "short_description": "Low disk space on laptop",
+    "description": "C: drive is full and system is slow. Need cleanup guidance.",
+    "caller": "Demo User",
+    "impact": "Single User",
+    "urgency": "Low"
+  }

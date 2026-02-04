@@ -1,0 +1,8 @@
+{
+    "ticket_id": "INC20001",
+    "short_description": "Unable to connect to VPN (Error 809)",
+    "description": "User cannot connect to VPN since morning. Getting error 809. Tried restart but no luck.",
+    "caller": "Ritesh Raut",
+    "impact": "Single User",
+    "urgency": "Medium"
+  }
